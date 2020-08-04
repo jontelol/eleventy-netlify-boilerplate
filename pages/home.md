@@ -1,10 +1,10 @@
 ---
 layout: layouts/home.njk
-title: Start
+title: Start 2
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
-  key: Start
+  key: Start 2
   order: 0
 ---
 # Welcome
